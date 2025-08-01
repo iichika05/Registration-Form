@@ -243,7 +243,7 @@ Partial Class AdminDashboard
         Me.btn_delete.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.btn_delete.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
         Me.btn_delete.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.btn_delete.FillColor = System.Drawing.Color.Red
+        Me.btn_delete.FillColor = System.Drawing.SystemColors.MenuHighlight
         Me.btn_delete.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn_delete.ForeColor = System.Drawing.Color.White
         Me.btn_delete.Location = New System.Drawing.Point(580, 435)
