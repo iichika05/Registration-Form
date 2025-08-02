@@ -103,9 +103,9 @@ Partial Class SignUp
         Me.btn_signup.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray
         Me.btn_signup.DisabledState.FillColor = System.Drawing.Color.FromArgb(CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer), CType(CType(169, Byte), Integer))
         Me.btn_signup.DisabledState.ForeColor = System.Drawing.Color.FromArgb(CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer), CType(CType(141, Byte), Integer))
-        Me.btn_signup.FillColor = System.Drawing.Color.MediumTurquoise
-        Me.btn_signup.Font = New System.Drawing.Font("Microsoft Tai Le", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btn_signup.ForeColor = System.Drawing.Color.White
+        Me.btn_signup.FillColor = System.Drawing.Color.Red
+        Me.btn_signup.Font = New System.Drawing.Font("Microsoft Tai Le", 11.25!, System.Drawing.FontStyle.Bold)
+        Me.btn_signup.ForeColor = System.Drawing.Color.Transparent
         Me.btn_signup.Location = New System.Drawing.Point(150, 284)
         Me.btn_signup.Name = "btn_signup"
         Me.btn_signup.Size = New System.Drawing.Size(151, 36)
