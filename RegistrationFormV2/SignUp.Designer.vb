@@ -52,7 +52,7 @@ Partial Class SignUp
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.BorderRadius = 4
-        Me.PictureBox1.FillColor = System.Drawing.Color.Gray
+        Me.PictureBox1.FillColor = System.Drawing.Color.OliveDrab
         Me.PictureBox1.ImageRotate = 0!
         Me.PictureBox1.Location = New System.Drawing.Point(56, 133)
         Me.PictureBox1.Margin = New System.Windows.Forms.Padding(4, 4, 4, 4)
